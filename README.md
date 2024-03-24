@@ -43,4 +43,4 @@ Feel free to contribute.
 - [Manon Entressangle](https://www.linkedin.com/in/manon-entressangle-329b6289/)
 - [Carolina Ferreira Garcia](https://www.linkedin.com/in/caro-fg/)
 - [Girija Saint Ange](https://www.linkedin.com/in/girija-saint-ange-9736888/)
-- 
+
