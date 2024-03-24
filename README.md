@@ -11,6 +11,7 @@ Feel free to contribute.
 - [Rome Sassi](https://www.linkedin.com/in/romesassi/) 
 - [Dominique Sauquet](https://www.linkedin.com/in/dominique-sauquet-6a39101/) 
 - [Silvia Luby](https://www.linkedin.com/in/silvia-luby/)
+- [Katia Himeur Talhi](https://twitter.com/katia_tal)
 
 # Head of Engineerig
 
