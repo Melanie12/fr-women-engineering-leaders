@@ -5,6 +5,7 @@ Before submitting a new name, please check the README to see whether your sugges
 
 ## How to contribute
 You can edit this file using GitHub's web interface, or fork the repository and work locally in your code editor.
+If you are listed on this repository but don't want to, please feel free to inform me.
 
 ### Edit the README on GitHub
 1. Navigate to the README file in the repository and click the pencil icon to "edit file", or navigate to the URL to edit this file directly.
