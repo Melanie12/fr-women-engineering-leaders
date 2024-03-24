@@ -3,8 +3,7 @@ Repo listing french women leaders in the Engineering field.
 
 Feel free to contribute.
 
-#CTO 
-
+# CTO 
 
 - [Sara El Afia](https://www.linkedin.com/in/saraelafia) 
 - [Suzanne Daurat](https://www.linkedin.com/in/suzanne-daurat-b6b59161/) 
@@ -13,7 +12,7 @@ Feel free to contribute.
 - [Dominique Sauquet](https://www.linkedin.com/in/dominique-sauquet-6a39101/) 
 - [Silvia Luby](https://www.linkedin.com/in/silvia-luby/)
 
-#Head of Engineerig
+# Head of Engineerig
 
 - [Safa Jammali](https://www.linkedin.com/in/safajammali/)
 - [Florence Chabanois](https://www.linkedin.com/in/florencechabanois/)
@@ -27,14 +26,14 @@ Feel free to contribute.
 - [Giovanna Giammarino](https://www.linkedin.com/in/ggiammarino/)
 - [Laurie Plociennik](https://www.linkedin.com/in/lplociennik/)
 
-#DevTools founder/CEO
+# DevTools founder/CEO
 - [Cécile Delerablée](https://www.linkedin.com/in/ceciledelerablee/)
 - [Anh-Tho Chuong](https://www.linkedin.com/in/anhthochuong)
 
-#DevTools
+# DevTools CPO
 - [Adrienne Jan](https://www.linkedin.com/in/adriennejan/)
 
-#Developer Advocate
+# Developer Advocate
 
 - [Pauline Louis](https://www.linkedin.com/in/pauline-louis/)
 - [Marine Gosselin](https://www.linkedin.com/in/marine-gosselin/)
