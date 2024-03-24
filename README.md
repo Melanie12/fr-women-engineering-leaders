@@ -13,7 +13,7 @@ Feel free to contribute.
 - [Silvia Luby](https://www.linkedin.com/in/silvia-luby/)
 - [Katia Himeur Talhi](https://twitter.com/katia_tal)
 
-# Head of Engineerig
+# Head of Engineering
 
 - [Safa Jammali](https://www.linkedin.com/in/safajammali/)
 - [Florence Chabanois](https://www.linkedin.com/in/florencechabanois/)
