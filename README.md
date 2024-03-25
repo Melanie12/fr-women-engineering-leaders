@@ -13,6 +13,8 @@ Feel free to contribute.
 - [Silvia Luby](https://www.linkedin.com/in/silvia-luby/)
 - [Katia Himeur Talhi](https://twitter.com/katia_tal)
 - [Marie Terrier](https://www.linkedin.com/in/marieterrier/)
+- [Aurore Malherbes] (https://www.linkedin.com/in/auroremalherbes/)
+- [Laure Némée] (https://www.linkedin.com/in/laurenemee/)
 
 # Head of Engineering
 
