@@ -12,6 +12,7 @@ Feel free to contribute.
 - [Dominique Sauquet](https://www.linkedin.com/in/dominique-sauquet-6a39101/) 
 - [Silvia Luby](https://www.linkedin.com/in/silvia-luby/)
 - [Katia Himeur Talhi](https://twitter.com/katia_tal)
+- [Marie Terrier](https://www.linkedin.com/in/marieterrier/)
 
 # Head of Engineering
 
