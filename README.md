@@ -15,6 +15,7 @@ Feel free to contribute.
 - [Marie Terrier](https://www.linkedin.com/in/marieterrier/)
 - [Aurore Malherbes](https://www.linkedin.com/in/auroremalherbes/)
 - [Laure Némée](https://www.linkedin.com/in/laurenemee/)
+- [Aurélie Guillaume](https://www.linkedin.com/in/guillaumeaurelie/)
 
 # Head of Engineering
 
